@@ -8,12 +8,12 @@ a = int(input("Enter Value of a: "))
 b = int(input("Enter Value of b: "))
 c = int(input("Enter Value of c: "))
 
-just = ((b**2) - (4 * a * c))
+inside_sqrt = ((b**2) - (4 * a * c))
 
-x = (-b + math.sqrt(just))
+x = (-b + math.sqrt(inside_sqrt))
 value_x = x / (2 * a)
 
-xv2 = (-b - math.sqrt(just))
+xv2 = (-b - math.sqrt(inside_sqrt))
 value_xv2 = xv2 / (2 * a)
 
 if value_x == value_xv2:
