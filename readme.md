@@ -1,5 +1,6 @@
 <doctype html>
 <html lang="en-US">
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
   <body>
     This script is primarily designed to solve quadratic equations, the script uses a basic implementation of the quadratic formula to solve the question in hand.
     The script first assumes that the question in question is in general form, which is ax²+bx+c=0, where a, b, and c are real numbers and a is never 0.
