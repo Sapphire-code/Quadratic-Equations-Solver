@@ -1,6 +1,6 @@
 <doctype html>
 <html lang="en-US">
-<img src="https://forthebadge.com/images/badges/made-with-python.svg" />
+
   <body>
     This script is primarily designed to solve quadratic equations, the script uses a basic implementation of the quadratic formula to solve the question in hand.
     The script first assumes that the question in question is in general form, which is ax²+bx+c=0, where a, b, and c are real numbers and a is never 0.
@@ -15,5 +15,7 @@
   after we enter the value of a, b, and c. we shall get our answer regarding the question x²+5x+1=0 as:
   <br>
   x = -0.20871215252208009 or -4.7912878474779195
+  <br>
+  <img src="https://forthebadge.com/images/badges/made-with-python.svg" />
   </body>
 </html>
